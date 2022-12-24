@@ -1,1 +1,2 @@
-# bymiljoetaten_bymelding_eksport_23des2022
+# Bymelding.no eksport
+Anonymisert datauttrekk fra bymelding hentet ut 23.desember 2022
